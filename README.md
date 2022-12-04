@@ -30,7 +30,7 @@ Entire home/apt holds the record of highest price (211.79$) being paid by the cu
 
 ## Conclusion:
 <p align="justify">
-As there are other models capable of handling large datasets, it is surprising to see that Linear Regression showed better performance for this dataset. By gathering the insights from the dataset, the following observations could be seen.
+As there are other models capable of handling large datasets, it is surprising to see that Linear Regression showed better performance for this dataset. By gathering the insights from the dataset, the following observations could be seen.__
 •	Room types and the Neighborhood group are the important factors.
 •	Expensive properties compared to the other neighborhood was Manhattan.
 •	For average price Brooklyn is a good choice.
