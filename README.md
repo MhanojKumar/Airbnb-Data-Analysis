@@ -12,5 +12,5 @@ According to data, the most frequent form of Airbnb chosen is an “entire home/
 <p>
 Types Of Listings by Neighborhoods:
 </b></p>
-<p>Except in Manhattan, where entire home/apartment is the most frequent selling category, private room is perhaps the most frequent selling type in all neighborhoods. The least sold rooms were the shared ones. <b>Please refer to the picture attached "Listing Types (Entire home, Private room, Shared room) in New York City" in the project dashboard for visualization.</b>
+<p align="justify">Except in Manhattan, where entire home/apartment is the most frequent selling category, private room is perhaps the most frequent selling type in all neighborhoods. The least sold rooms were the shared ones. <b>Please refer to the picture attached "Listing Types (Entire home, Private room, Shared room) in New York City" in the project dashboard for visualization.</b>
 </p>
