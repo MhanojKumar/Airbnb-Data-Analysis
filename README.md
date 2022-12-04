@@ -8,9 +8,8 @@ Here the best technique for identifying the most excellent Airbnb accommodation 
 ## Exploratory Data Analysis
 <p align="justify">
 According to data, the most frequent form of Airbnb chosen is an “entire home/apartment”, followed by a “private room”. The least prevalent are “shared rooms”. Manhattan has the most Airbnb’s among the neighborhood groupings, followed by Brooklyn. The smallest is on Staten Island. It also reveals that the least price is 0, the average price is 152.7, and the highest price is 10,000, which is unusual, thus indicating probable outliers.
-<b></p>
-<p>
-Types Of Listings by Neighborhoods:
-</b></p>
-<p align="justify">Except in Manhattan, where entire home/apartment is the most frequent selling category, private room is perhaps the most frequent selling type in all neighborhoods. The least sold rooms were the shared ones. <b>Please refer to the picture attached "Listing Types (Entire home, Private room, Shared room) in New York City" in the project dashboard for visualization.</b>
 </p>
+<b>
+Types Of Listings by Neighborhoods:
+</b>
+Except in Manhattan, where entire home/apartment is the most frequent selling category, private room is perhaps the most frequent selling type in all neighborhoods. The least sold rooms were the shared ones. <b>Please refer to the picture attached "Listing Types (Entire home, Private room, Shared room) in New York City" in the project dashboard for visualization.</b>
