@@ -31,15 +31,14 @@ Entire home/apt holds the record of highest price (211.79$) being paid by the cu
 ## Conclusion:
 <p align="justify">
 As there are other models capable of handling large datasets, it is surprising to see that Linear Regression showed better performance for this dataset. By gathering the insights from the dataset, the following observations could be seen.<br />
-•	Room types and the Neighborhood group are the important factors.
-•	Expensive properties compared to the other neighborhood was Manhattan.
-•	For average price Brooklyn is a good choice.
-•	Entire home/apartment has the highest average price, followed by private room and shared room.
+•	Room types and the Neighborhood group are the important factors.<br />
+•	Expensive properties compared to the other neighborhood was Manhattan.<br />
+•	For average price Brooklyn is a good choice.<br />
+•	Entire home/apartment has the highest average price, followed by private room and shared room.<br />
 •	The number of reviews for a high-priced property is lower than for low-priced or average-priced property.
 </p>
 
 ## Future Improvement Recommendation:
 <p align="justify">
-•	The information in the dataset was not enough as factors like seasons, insights into the property, and crime rate were not available.
-•	In the future, for better prediction of the model, I would try Big Data analysis for larger data sets.
+The information in the dataset was not enough as factors like seasons, insights into the property, and crime rate were not available. In the future, for better prediction of the model, I would try Big Data analysis for larger data sets.
 </p>
