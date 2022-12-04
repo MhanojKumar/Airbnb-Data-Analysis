@@ -27,3 +27,19 @@ Entire NYC Average Room Price Comaprision:
 </b>
 Entire home/apt holds the record of highest price (211.79$) being paid by the customers followed by Private room (89.78$) and Shared room (70.13$) in the whole neighborhoods. <b>Note -</b> Please refer to the picture attached <b>"NYC Average Room Price Comaprision"</b> in the project dashboard for visualization.
 </p>
+
+## Conclusion:
+<p align="justify">
+As there are other models capable of handling large datasets, it is surprising to see that Linear Regression showed better performance for this dataset. By gathering the insights from the dataset, the following observations could be seen.
+•	Room types and the Neighborhood group are the important factors.
+•	Expensive properties compared to the other neighborhood was Manhattan.
+•	For average price Brooklyn is a good choice.
+•	Entire home/apartment has the highest average price, followed by private room and shared room.
+•	The number of reviews for a high-priced property is lower than for low-priced or average-priced property.
+</p>
+
+## Future Improvement Recommendation:
+<p align="justify">
+•	The information in the dataset was not enough as factors like seasons, insights into the property, and crime rate were not available.
+•	In the future, for better prediction of the model, I would try Big Data analysis for larger data sets.
+</p>
