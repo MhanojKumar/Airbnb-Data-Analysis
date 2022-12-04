@@ -13,7 +13,7 @@ According to data, the most frequent form of Airbnb chosen is an “entire home/
 <b>
 Types Of Listings by Neighborhoods:
 </b>
-Except in Manhattan, where entire home/apartment is the most frequent selling category, private room is perhaps the most frequent selling type in all neighborhoods. The least sold rooms were the shared ones. <b>Note - Please refer to the picture attached "Listing Types (Entire home, Private room, Shared room) in New York City" in the project dashboard for visualization.</b>
+Except in Manhattan, where entire home/apartment is the most frequent selling category, private room is perhaps the most frequent selling type in all neighborhoods. The least sold rooms were the shared ones. <b>Note -</b> Please refer to the picture attached <b>"Listing Types (Entire home, Private room, Shared room) in New York City"</b> in the project dashboard for visualization.
 </p>
 <p align="justify">
 <b>
@@ -25,5 +25,5 @@ Manhattan is the highest paid neighborhood (196.88$) among all followed by Brook
 <p align="justify">
 Entire NYC Average Room Price Comaprision:
 </b>
-Entire home/apt holds the record of highest price (211.79$) being paid by the customers followed by Private room (89.78$) and Shared room (70.13$) in the whole neighborhoods.<b>Note - Please refer to the picture attached "NYC Average Room Price Comaprision" in the project dashboard for visualization.</b>
+Entire home/apt holds the record of highest price (211.79$) being paid by the customers followed by Private room (89.78$) and Shared room (70.13$) in the whole neighborhoods. <b>Note -</b> Please refer to the picture attached <b>"NYC Average Room Price Comaprision"</b> in the project dashboard for visualization.
 </p>
