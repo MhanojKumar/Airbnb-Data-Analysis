@@ -19,7 +19,7 @@ Except in Manhattan, where entire home/apartment is the most frequent selling ca
 <b>
 Average Price Comparison among each Neighborhood:
 </b>
-Manhattan is the highest paid neighborhood (196.88$) among all followed by Brooklyn (124.28$), Staten Island (114.81$) and Queens (99.52$). Possible reason for the highest price in Manhattan must be the entire apartment renting. Bronx was found to be the least listings, mean price is 87.5$. <b>Note - Please refer to the picture attached "Rooms Price Comparision among each Neighboorhood" in the project dashboard for visualization.</b>
+Manhattan is the highest paid neighborhood (196.88$) among all followed by Brooklyn (124.28$), Staten Island (114.81$) and Queens (99.52$). Possible reason for the highest price in Manhattan must be the entire apartment renting. Bronx was found to be the least listings, mean price is 87.5$. <b>Note -</b> Please refer to the picture attached <b>"Rooms Price Comparision among each Neighboorhood"</b> in the project dashboard for visualization.
 </p>
 <b>
 <p align="justify">
